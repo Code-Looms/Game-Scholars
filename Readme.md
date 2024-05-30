@@ -47,4 +47,3 @@ Guilds and clans can host intra-guild events and participate in inter-guild tour
     - INtegrate with popular game APIs for real-time data.
     - Payment gateways for handeling transactions.
 
-gi
